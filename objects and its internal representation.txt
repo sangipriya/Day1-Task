@@ -1,0 +1,23 @@
+let obj={
+	  name:"babu",
+	  age:25,
+	  Department:"BSC",
+	  college:"Arts & college"};
+
+1.when we assign the value to object it respresent the objects in the form of "key value" pair and value are store to obj variable.
+2. The value in object can be access by using "bracket notation(objectName["propertyName"])" and "dot notation"(objectName.propertyName).
+3. name:values pairs in JavaScript objects are called properties.
+
+In arr we can store the multiple values in organised  manner .
+let arr=[1,2,3,4,5,6,];
+
+1.the value in array are stored in for of index value and let arr is the variable memory location that stored .
+2. values in arr can access using the index value 0 is 1, index of 1 is 2, index of 2 is 3 so on.
+3.we can change the value of an array using assigning the new value to index 0.
+example:
+arr[0]=2;
+
+
+
+ 
+
